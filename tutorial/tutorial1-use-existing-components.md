@@ -27,7 +27,7 @@ This tutorial will explain how to register component from the gallery with a sam
     >
     > Please open the designer before you do following steps if you have never opened it in your workspace before. This is to make sure the required data types are registered to the workspace so that you can register components successfully to workspace.  
 
-1. Add **&flight=cm** at end of the URL of your workspace to enable components feature. You will see **Modules** tab under Assests blade on the left navigation bar. 
+1. Add **&flight=cm** at end of the URL of your workspace to enable components feature. You will see **Modules** tab under Assets blade on the left navigation bar. 
 
     ![create-component](./img/aml-studio-flight.png)
     
